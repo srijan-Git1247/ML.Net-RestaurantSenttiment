@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\ML.Net-RestaurantSenttiment\\RestaurantSentiment.csproj": {}
+    "C:\\Users\\user\\OneDrive\\Desktop\\New folder (2)\\RestaurantSentiment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\OneDrive\\Desktop\\ML.Net-RestaurantSenttiment\\RestaurantSentiment.csproj": {
+    "C:\\Users\\user\\OneDrive\\Desktop\\New folder (2)\\RestaurantSentiment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\ML.Net-RestaurantSenttiment\\RestaurantSentiment.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive\\Desktop\\New folder (2)\\RestaurantSentiment.csproj",
         "projectName": "RestaurantSentiment",
-        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\ML.Net-RestaurantSenttiment\\RestaurantSentiment.csproj",
+        "projectPath": "C:\\Users\\user\\OneDrive\\Desktop\\New folder (2)\\RestaurantSentiment.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\ML.Net-RestaurantSenttiment\\obj\\",
+        "outputPath": "C:\\Users\\user\\OneDrive\\Desktop\\New folder (2)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

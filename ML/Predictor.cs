@@ -8,7 +8,7 @@ using RestaurantSentiment.ML.Base;
 using RestaurantSentiment.ML.Objects;
 namespace RestaurantSentiment.ML
 {
-    public class Predictor:BaseML
+    public class Predictor:BaseML//l;lk
     {
         public void Predict(string inputData)
         {
