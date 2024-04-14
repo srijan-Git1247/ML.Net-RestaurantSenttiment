@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "RestaurantSentiment": {
+      "commandName": "Project",
+      "commandLineArgs": "train C:\\Users\\user\\source\\repos\\RestaurantSentiment\\Data\\sampledata.csv"
+    },
+    "Profile 1": {
+      "commandName": "Project"
+    }
+  }
+}
